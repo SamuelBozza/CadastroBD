@@ -1,12 +1,12 @@
 # CadastroBD
 
-# Foi usado o MySQL e MySQL Workbench para manipulação dos dados, no entanto usar o novo script para incersão das tabelas e dos dados.
+# Foi usado o MySQL e MySQL Workbench para manipulação dos dados, no entanto usar o novo script para incersão das tabelas e dos dados(Arquivo com o nome: SQL NEW SCRIPT. Ou Usar o script abaixo).
 
 # DIAGRAMA RELACIONAL
 
 ![diagrama relacional](https://github.com/SamuelBozza/CadastroBD/assets/102820398/77320e05-d4a5-4a65-af7c-c650196579ad)
 
-
+```
 # NOVO SCRIPT: 
 
 -- SCRIPT DE CRIAÇÃO DAS TABELAS
@@ -108,3 +108,4 @@ INSERT INTO movimento (Usuario_idUsuario, Pessoa_idPessoa, Produto_idProduto, qu
 INSERT INTO movimento (Usuario_idUsuario, Pessoa_idPessoa, Produto_idProduto, quantidade, tipo, valorUnitario) VALUES (2, 1, 2, 10, 'S', 3.00);
 INSERT INTO movimento (Usuario_idUsuario, Pessoa_idPessoa, Produto_idProduto, quantidade, tipo, valorUnitario) VALUES (1, 2, 2, 15, 'E', 5.00);
 INSERT INTO movimento (Usuario_idUsuario, Pessoa_idPessoa, Produto_idProduto, quantidade, tipo, valorUnitario) VALUES (1, 3, 3, 20, 'E', 4.00);
+```
