@@ -6,9 +6,11 @@
 
 ![diagrama relacional](https://github.com/SamuelBozza/CadastroBD/assets/102820398/77320e05-d4a5-4a65-af7c-c650196579ad)
 
-```
+
 # NOVO SCRIPT: 
 
+
+```
 -- SCRIPT DE CRIAÇÃO DAS TABELAS
 
 CREATE TABLE Produto (
