@@ -1,6 +1,6 @@
 # CadastroBD
 
-# Foi usado o MySQL e MySQL Workbench para manipulação dos dados, no entanto usar o novo script para incersão das tabelas e dos dados(Arquivo com o nome: SQL NEW SCRIPT. Ou Usar o script abaixo).
+# Foi usado o MySQL e MySQL Workbench para manipulação dos dados, no entanto usar o novo script para incerção das tabelas e dos dados(Arquivo com o nome: SQL NEW SCRIPT. Ou Usar o script abaixo).
 
 # DIAGRAMA RELACIONAL
 
